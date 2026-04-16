@@ -1,0 +1,4 @@
+interface:
+  display_name: "No useEffect"
+  short_description: "Review and refactor React effects into better primitives."
+  default_prompt: "Use the no-use-effect skill. Classify each effect by cause first, replace it with the smallest correct primitive, and only keep surviving effects behind named hooks."
